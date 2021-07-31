@@ -1,4 +1,4 @@
-#include <Chrystal.h>
+#include <Chrystal/Chrystal.h>
 
 class Sandbox : public Chrystal::Application
 {
